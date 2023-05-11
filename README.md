@@ -15,9 +15,9 @@ INSTALLATION AND USER MANUAL
 #### Hours of Operation        :  10.00 AM TO 9.00PM
 #### Website                   : www.bLUEWAVECOOLER.com
 #### Address                   :  Shop No 34, 35 Antop Hill,   S.M. Road, Mumbai- 400037.
-# We are a company built for families and we are confident to give you best service with our top level performance 
+### We are a company built for families and we are confident to give you best service with our top level performance 
 
-## Sincerely
-## The bLUEWAVE COOLER Customer Assurance Team
+### Sincerely
+### The bLUEWAVE COOLER Customer Assurance Team
 
 
