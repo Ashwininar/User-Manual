@@ -62,3 +62,7 @@ INSTALLATION AND USER MANUAL
 ## Safety Symbols and Labels
 ------------------------------
 *The Below symbols alert you to particular levels. Always consider these information before proceeding*
+
+|![image](https://github.com/Ashwininar/User-Manual/assets/130229745/c504cc18-4133-4b9d-8cb9-992ca040ba8d) Danger|
+| -------------------------------------------------------------------------------------------------------------- |
+| Immediate harards that will result in severe personal injury or even death |
