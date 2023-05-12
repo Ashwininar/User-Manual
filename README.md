@@ -42,7 +42,6 @@ INSTALLATION AND USER MANUAL
 
 # Table of Content
 
-| About Safety Info and Warnings | 5 |
-| Important Safety Instructions |  6,7,8 |
-| Installation Instructions | 9 |
-| Product Specification | 10 |
+| About Safety Info & Warnings | 5 |
+| ---------------------------- | - |
+| Important Safety Instructions | 6,7,8 |
