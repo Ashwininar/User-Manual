@@ -40,3 +40,9 @@ INSTALLATION AND USER MANUAL
 
 ![image](https://github.com/Ashwininar/User-Manual/assets/130229745/f62736b1-d3b0-4b77-bbd0-7c10212536ec)  
 
+# Table of Content
+
+| About Safety Info and Warnings | 5 |
+| Important Safety Instructions |  6,7,8 |
+| Installation Instructions | 9 |
+| Product Specification | 10 |
