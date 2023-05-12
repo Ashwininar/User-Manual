@@ -53,3 +53,12 @@ INSTALLATION AND USER MANUAL
 | Refrigerator Cleaning Instruction | 13 |
 | Troubleshooting | 14 |
 | Warranty | 15,16 |
+
+## About Safety Warnings
+
+## Safety Information
+- The important Safety Instructions and warnings in this manual has tried to include all possible issues. Read the Safety and Warning before installing, maintaining, and operating the appliance. Always contact bLUEWAVE COOLER Customer Assurance for situations you cannot resolve.
+
+## Safety Symbols and Labels
+------------------------------
+*The Below symbols alert you to particular levels. Always consider these information before proceeding*
