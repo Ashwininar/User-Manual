@@ -45,7 +45,7 @@ INSTALLATION AND USER MANUAL
 | About Safety Info & Warnings | 5 |
 | ---------------------------- | - |
 | Important Safety Instructions | 6,7,8 |
-| ----------------------------  | - |
+| ---------------------------- | - |
 |  Installation Instructions | 9 |
 | --------------------------- | - |
 | Product Specifications | 10 |
