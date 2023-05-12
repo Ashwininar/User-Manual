@@ -45,16 +45,6 @@ INSTALLATION AND USER MANUAL
 | About Safety Info & Warnings | 5 |
 | ---------------------------- | - |
 | Important Safety Instructions | 6,7,8 |
-| ---------------------------- | - |
-|  Installation Instructions | 9 |
-| --------------------------- | - |
-| Product Specifications | 10 |
-| -------------------------- | - |
+|  Installation Instructions  | 9 |
+| Product Specification | 10 | 
 | Temperature Settings | 11 |
-| -------------------------- | - |
-| Maintenance Instructions | 12 |
-| -------------------------- | - |
-| Refrigerator Cleaning Instruction | 13 |
-| -------------------------- | - |
-| Troubleshooting | 14 |
-| Warranty | 15, 16 |
