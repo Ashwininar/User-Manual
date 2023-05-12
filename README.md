@@ -75,4 +75,19 @@ INSTALLATION AND USER MANUAL
 | ---------------------------------------------------------------------------------------------------------------- |
 | Hazards or unsafe practices that could result in minor personal injury or property damage |
 
+# Danger 
 
+-   •	Cut/remove the power cord third prong
+•	Use the adapter plug
+•	Use a frayed/word or damaged power cord
+•	Plug in the refrigerator via an extension cord
+•	Use the power cord near heated surfaces.
+•	To prevent child entrapment and suffocation: - remove the doors from the old refrigerator - leave the racks in place to discourage entry - cut off the plug's prongs, then remove and discard the power cord separate from the refrigerator. 
+•	Do not store or use combustible/explosive vapors or liquids (e.g., alcohol, paint thinner) inside or near the refrigerator. 
+•	Do not install the refrigerator near a gas stove, water heater, or other possible ignition source of leaking gas. 
+•	Turn the refrigerator OFF for long periods of non-use or during a severe electrical storm. 
+•	A leaky refrigerator is an electric-shock/fire hazard; have it serviced by an authorized technician before using it. 
+•	Do not spray water in/on the refrigerator; do not clean it with toxic chemicals or abrasive substances. 
+•	The insulation around electrical parts decays over time and may cause electric shock or fire. (Smoke or a burning-wire smell from the refrigerator signals a possible fire hazard; turn the appliance off immediately, and contact the service center. 
+Letting anyone other than an authorized technician work on the refrigerator may cause a fire and likely void the warranty. 
+Do not store non-edible items in the refrigerator; use it only in the home. (Outside/non-standard use risks fire/electric shock, deterioration of stored items, and a chemical reaction between refrigerator components and stored items.) 
