@@ -66,3 +66,13 @@ INSTALLATION AND USER MANUAL
 |![image](https://github.com/Ashwininar/User-Manual/assets/130229745/c504cc18-4133-4b9d-8cb9-992ca040ba8d) Danger|
 | -------------------------------------------------------------------------------------------------------------- |
 | Immediate harards that will result in severe personal injury or even death |
+
+| ![image](https://github.com/Ashwininar/User-Manual/assets/130229745/abd3073f-3112-4d26-b0b3-d0b541872c53) WARNING |
+|  -------------------------------------------------------------------------------------------------------------- |
+|  Hazards or Unsafe Practices that could result in severe personal injury or death |
+
+| ![image](https://github.com/Ashwininar/User-Manual/assets/130229745/21ea4d97-d259-4890-baaa-7a3a344b140f) CAUTION |
+| ---------------------------------------------------------------------------------------------------------------- |
+| Hazards or unsafe practices that could result in minor personal injury or property damage |
+
+
