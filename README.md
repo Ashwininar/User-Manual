@@ -36,8 +36,7 @@ INSTALLATION AND USER MANUAL
 - Please maintain your Purchase Bill always with you. The original purchase date is important for warranty purpose.bLUEWAVE COOLER         customer service representative will ask for these details for verification purpose.
 - The model/serial number are on the product label on the front door right side corner of the refrigerator.
 To avoid the risks, it is very important that the refrigerators are installed correctly and you read the user manual carefully to avoid misuse and hazards.-
-
-•	After the Product is unpacked, please check if any damage is there. If there is any doubt do not use the refrigerator and contact Customer Assistance Centre.
+- After the Product is unpacked, please check if any damage is there. If there is any doubt do not use the refrigerator and contact Customer Assistance Centre. 
 
 ![image](https://github.com/Ashwininar/User-Manual/assets/130229745/f62736b1-d3b0-4b77-bbd0-7c10212536ec)
 
