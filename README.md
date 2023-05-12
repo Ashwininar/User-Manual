@@ -1,4 +1,4 @@
-#                                                                                   bLUEWAVE COOLER 
+#                                                                                   bLUEWAVE COOLER
 INSTALLATION AND USER MANUAL
 ----
 ## REFRIGERATORS
