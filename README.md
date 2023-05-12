@@ -57,5 +57,4 @@ INSTALLATION AND USER MANUAL
 | Refrigerator Cleaning Instruction | 13 |
 | -------------------------- | - |
 | Troubleshooting | 14 |
-| -------------------------- | - |
 | Warranty | 15, 16 |
