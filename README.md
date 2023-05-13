@@ -128,4 +128,8 @@ INSTALLATION AND USER MANUAL
 - Open the refrigerator doors sparingly during a power outage.
 - Do not obstruct any vents or openings on the appliance
 
+# Installation Instructions
+-----------------------------------------------------------------------------------------------------------------------------------------
+![image](https://github.com/Ashwininar/User-Manual/assets/130229745/55b79b31-ba52-49e1-ae14-722263146e33)
+ Keep the Unit in a well ventilated Area 
 
