@@ -77,6 +77,7 @@ INSTALLATION AND USER MANUAL
 
 # ![image](https://github.com/Ashwininar/User-Manual/assets/130229745/a53b83db-d7c2-4cb4-81bd-e4b57363d674) Danger 
 -----------------------------------------------------------------------------------
+# Do Not:
 - Cut/remove the power cord third prong
 - Use the adapter plug
 - Use a frayed/word or damaged power cord
@@ -91,3 +92,40 @@ INSTALLATION AND USER MANUAL
 - The insulation around electrical parts decays over time and may cause electric shock or fire. (Smoke or a burning-wire smell from the refrigerator signals a possible fire hazard; turn the appliance off immediately, and contact the service center. 
 - Letting anyone other than an authorized technician work on the refrigerator may cause a fire and likely void the warranty. 
 - Do not store non-edible items in the refrigerator; use it only in the home. (Outside/non-standard use risks fire/electric shock, deterioration of stored items, and a chemical reaction between refrigerator components and stored items.) 
+
+# ![image](https://github.com/Ashwininar/User-Manual/assets/130229745/a53b83db-d7c2-4cb4-81bd-e4b57363d674) Warnning
+-------------------------------------------------------------------------------------------------------------------------------------
+- Keep the ventilation openings in the appliance enclosure or the built-in structure clear of obstruction.
+-	Do not use mechanical devices or other means to accelerate the defrosting process.
+-	Do not damage the refrigerant circuit. 
+-	Do not use electrical appliances inside the food storage compartments of the appliance. 
+-	To avoid hazards due to instability of the appliance, it must be fixed in accordance with the installation instructions.
+-	If you receive a damaged product, immediately contact your dealer/builder. Do not install/use a damaged appliance.
+-	Ensuring the refrigerator's proper installation is the owner's responsibility. 
+-	Know the location of the electrical outlet so you can disconnect power as needed. 
+-	Dispose of refrigeration equipment properly and professionally according to environmentally sound regulations and laws. Contact a waste-disposal center for details. 
+-	Take care when handling, moving, using the refrigerator to avoid damaging sensitive components.
+-	The refrigerator is not designed for outdoor use or in wet areas (incl. recreational vehicles or boats).
+-	Keep packaging materials away from children. Plastic sheets/ bags are suffocation hazards.
+-	Connect this appliance to a 115 Vac, 15 Amp. Circuit controlled by a circuit breaker or fuse. The refrigerator should have a separate, grounded circuit.
+-	Disconnect the refrigerator when not in use. 
+-	Keep the ventilation openings in the appliance enclosure or the built-in structure clear of obstruction.
+-	Do not use mechanical devices or other means to accelerate the defrosting process.
+-	Do not damage the refrigerant circuit. 
+-	Do not use electrical appliances inside the food storage compartments of the appliance. 
+-	To avoid hazards due to instability of the appliance, it must be fixed in accordance with the installation instructions.
+-	If you receive a damaged product, immediately contact your dealer/builder. Do not install/use a damaged appliance.
+-	Ensuring the refrigerator's proper installation is the owner's responsibility. 
+-	Know the location of the electrical outlet so you can disconnect power as needed. 
+-	Dispose of refrigeration equipment properly and professionally according to environmentally sound regulations and laws. Contact a waste-disposal center for details. 
+-	Take care when handling, moving, using the refrigerator to avoid damaging sensitive components.
+-	The refrigerator is not designed for outdoor use or in wet areas (incl. recreational vehicles or boats). 
+-	Keep packaging materials away from children. Plastic sheets/ bags are suffocation hazards. 
+-	Connect this appliance to a 115 Vac, 15 Amp. circuit controlled by a circuit breaker or fuse. The refrigerator should have a separate, grounded circuit.
+
+# ![image](https://github.com/Ashwininar/User-Manual/assets/130229745/0696fb7f-93d3-4e62-93b8-84bd57b50956) Caution
+-----------------------------------------------------------------------------------------------------------------------------
+- Open the refrigerator doors sparingly during a power outage.
+- Do not obstruct any vents or openings on the appliance
+
+
