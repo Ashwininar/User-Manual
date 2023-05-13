@@ -75,8 +75,8 @@ INSTALLATION AND USER MANUAL
 | ---------------------------------------------------------------------------------------------------------------- |
 | Hazards or unsafe practices that could result in minor personal injury or property damage |
 
-# Danger 
-
+# ![image](https://github.com/Ashwininar/User-Manual/assets/130229745/a53b83db-d7c2-4cb4-81bd-e4b57363d674) Danger 
+-----------------------------------------------------------------------------------
 - Cut/remove the power cord third prong
 - Use the adapter plug
 - Use a frayed/word or damaged power cord
