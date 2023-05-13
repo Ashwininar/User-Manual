@@ -154,3 +154,4 @@ INSTALLATION AND USER MANUAL
 
 | Features | Product Type | Values |
 | -------- | ------------ | ------ |
+| Capacity | Total | 24.0 cu.ft. |
