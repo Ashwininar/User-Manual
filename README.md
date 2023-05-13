@@ -150,4 +150,7 @@ INSTALLATION AND USER MANUAL
 
 ### Do not keep in a damp place to avoid risk of electric shock.
 
+# PRODUCT SPECIFICATION
 
+| Features | Product Type | Values |
+| -------- | ------------ | ------ |
