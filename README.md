@@ -160,3 +160,4 @@ INSTALLATION AND USER MANUAL
 |          | Outer Dimensions (W x H x D) | 1066.8 mm (42 in.) x 2121 mm (83.5 in.) x 719.5 mm (28.32 in.) |
 |          | Weight | 260 kg (573.2 lbs.) |
 | Cooling System | Type | Twin- Cooling Plus |
+| Refrigerator | Shelves Qty | 4 |
