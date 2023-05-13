@@ -156,4 +156,5 @@ INSTALLATION AND USER MANUAL
 | -------- | ------------ | ------ |
 | Capacity | Total | 24.0 cu.ft. |
 |          | Freezer | 8.5 cu. ft. |
-
+|          | Refrigerator | 15.5 cu. ft. |
+|          | Outer Dimensions (W x H x D) | 1066.8 mm (42 in.) x 2121 mm (83.5 in.) x 719.5 mm (28.32 in.) |
