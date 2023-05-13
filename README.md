@@ -131,18 +131,23 @@ INSTALLATION AND USER MANUAL
 # Installation Instructions
 -----------------------------------------------------------------------------------------------------------------------------------------
 ![image](https://github.com/Ashwininar/User-Manual/assets/130229745/55b79b31-ba52-49e1-ae14-722263146e33)
- Keep the Unit in a well ventilated Area 
+ 
+ ### Keep the Unit in a well ventilated Area 
 
 ![image](https://github.com/Ashwininar/User-Manual/assets/130229745/e97d59f6-8aa2-4b2f-b4b7-9e27acdf4abb)
-Wait for 4 hours Before Plug In For better performance
+
+### Wait for 4 hours Before Plug In For better performance
 
 ![image](https://github.com/Ashwininar/User-Manual/assets/130229745/7d9f8eb0-20fb-4d34-8011-c89153462028)
-Levelling to be done by front leg           
+
+### Levelling to be done by front leg           
 
 ![image](https://github.com/Ashwininar/User-Manual/assets/130229745/8ac51e36-87f0-4a3e-81f8-1e87c17b3762)
-Keep the unit away from direct sunlight and heat for better performance
+
+###  Keep the unit away from direct sunlight and heat for better performance
 
 ![image](https://github.com/Ashwininar/User-Manual/assets/130229745/29a63d25-2bf3-458e-ba49-15c8a396ba27)
-Do not keep in a damp place to avoid risk of electric shock.
+
+### Do not keep in a damp place to avoid risk of electric shock.
 
 
