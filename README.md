@@ -161,3 +161,12 @@ INSTALLATION AND USER MANUAL
 |          | Weight | 260 kg (573.2 lbs.) |
 | Cooling System | Type | Twin- Cooling Plus |
 | Refrigerator | Shelves Qty | 4 |
+|              | Fruit/Vegetable Drawers (Qty) | 3 |
+|              | Door Pockets (Qty) | 4 |
+|              | Dairy Bin | 1 | 
+| Dispenser | Design | External Water and Ice |
+|           | Control Panel and Display | LED Touch Screen ( All function control ) |
+|           | Display Bottom Deco | No |
+|           | 7 Seg LED Colour | Dark Blue |
+| Other | Shelves | Design | AI Trim (Front} +  Side Silver Resin |
+|       |         | Cantilver Color | Silver |
