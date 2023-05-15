@@ -199,7 +199,7 @@ INSTALLATION AND USER MANUAL
 
 # Maintenance of Refrigerator
 
-| ![image](https://github.com/Ashwininar/User-Manual/assets/130229745/f6163e20-bdc5-4f62-b879-52e5f65bbaa9) | 
+![image](https://github.com/Ashwininar/User-Manual/assets/130229745/f6163e20-bdc5-4f62-b879-52e5f65bbaa9)
 - Do not Cover the Refrigerator with any external cover. The heat dissipation is interrupted, which may cause weak cooling. Do no use plastic mats over the refrigerator shelf. It may cause weak cooling
 
 
