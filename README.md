@@ -230,6 +230,17 @@ In case of malfunction review the following list to find out if it is possible t
 | Problem | Possible Cause | Action |
 | ------- | -------------- | ------ |
 | The appliance does not start | Electrical cable is not properly plugged into the socket. The mains switch is in OFF position. | Set the cable properly . Turn on the switch to ON |
+| Internal temperature is higher than normal | Defrost in operation | Wait until the defrost cycle is finished and check the temperature after that |
+| Slow cooling or temperature does not fall to the set value | • Too much food, no air circulation
+• The environment is too warm
+• Condenser is covered by dust
+• The door is opened too frequently
+• Wrong temperature setting
+• Warm food in the cabinet
+• Frost build up on the evaporator |
+
+
+
                                                                                          
                                    
 
