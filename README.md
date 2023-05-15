@@ -234,13 +234,44 @@ In case of malfunction review the following list to find out if it is possible t
 | Slow cooling or temperature does not fall to the set value | • Too much food, no air circulation • The environment is too warm • Condenser is covered by dust • The door is opened too frequently • Wrong temperature setting • Warm food in the cabinet • Frost build up on the evaporator | •	Reposition the food •	Move the appliance•	Clean the condenser. (turn OFF power first) •	Don’t open the door so frequently •	Set the temperature •	Put the food into refrigerator •	After cooling. Perform a manual defrost cycle |
 | The appliance is noisy | The appliance is not level | Adjust the adjustable feet |
 
+# Warranty
+Important
+## Your warranty will not be activated until you activate it online or return this form to bLUEWAVE COOLER . If you have purchased more than one bLUEWAVE COOLER product, please return all forms in one envelope, or activate the warranty online for each product
 
+The bLUEWAVE COOLER Refrigerator comes with a Five year warranty on compressor and ONE year warranty on all other parts (except bulb, glass, and add on plastic parts) from the date of purchase, against defective material or workmanship. In case of any such defect found during the first year from the date of purchase bLUEWAVE COOLER Appliance Division will undertake repairs to the warranted parts free of charge, subject to terms and conditons below. In the warranty period beyond the first year from date of purchase only the component (compressor) will be provided free of cost. However the  appliance will be repaired on payment of necessary charges.
 
-
-
+ # Instructions for the Customer
  
+- Kindly ensure that the dealer fills the warranty card correctly and completely
+- You should retain the warranty card or record and produce the same in the event of any warranty repairs.
+- In the event of a defect developing in the product contact the nearest bLUEWAVE COOLER Centre for obtaining the warranty service and provide the defect, Model details and Serial Number.
+- Product will function between +/- 5% of rated volts. For any fluctuation beyond specific limit, company shall not be responsible. In turn warranty will stand terminated.
+- Earthing provision is necessary for the safety of mankind.
+- Frequency must be between 5% variation of 50Hz. Beyond this company shall not be liable for any unforeseen hazards like fire, shock etc. & in turn the warranty stands terminated.
+- The product must be maintained to ensure hygiene . If there are any insects, rodents in it causing obstruction to the functioning of the product , the company shall not be responsible and in turn warranty stands terminated.
 
+# Terms and Conditions
 
-                                                            
+- Repairs and Replacement of parts will be carried out through Authorised Customer Service Centre.
+- All transportation and handling expenses incurred while repairing will be payable by the customer. 
+- For any appliance installed beyond the municipal limits of the jurisdiction of the  authorized customer service  centre, charges towards the technicians visit must be borne by the customer.
+- While the company will make effort to carry out the repairs at the earliest, it however is made expressly clear that the company is under no obligation to do so in a specified time.
+- The company /its authorized personnel will collect parts, compressor or other components replaced. 
+- Warranty does not cover accessories to the appliance.
+- Sealed system gas charging and consumables shall be charged for any such repairs after one year from the date of purchase.
+- While the company would take all necessary steps to repair the Appliance supplied under the warranty and keep sufficient stock of the spare parts of the Appliances with them, however in certain cases , at the sole discretion of the Company, the Company may due to non-availability of spare parts of Appliance, offer replacement scheme to the purchasers of such Appliance purchased under warranty.
+
+# CUSTOMER COPY
+
+| CUSTOMER NAME AND ADDRESS |          | DEALERS NAME AND ADDRESS |
+| ------------------------- |          | ------------------------ |
+| ------------------------- |          | ------------------------ |
+| --------------------------|          | ------------------------ |
+| Telephone Number          |          | Telephone Number         | 
+
+Customer Signature
+
+## This warranty is valid only if it is filled in and stamped by our authorized dealer on the date of purchase
+
                                    
 
