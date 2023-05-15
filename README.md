@@ -197,6 +197,11 @@ INSTALLATION AND USER MANUAL
 | In Monsoon | ![image](https://github.com/Ashwininar/User-Manual/assets/130229745/fedbc0e2-4437-42f9-bcb4-7b37b8e26651) | ![image](https://github.com/Ashwininar/User-Manual/assets/130229745/1fac2ecd-1bef-4530-b78c-3b25099a8ae7) | Set on 3-4 |
 | In Winter | ![image](https://github.com/Ashwininar/User-Manual/assets/130229745/ea5ee3e3-f0a8-4b8b-8ecd-786e7b7e2cdf) | ![image](https://github.com/Ashwininar/User-Manual/assets/130229745/218ff95b-0585-4f92-9c98-4dbab514e75d) | Set on 1-2 |
 
- |
+# Maintenance of Refrigerator
+
+| ![image](https://github.com/Ashwininar/User-Manual/assets/130229745/f6163e20-bdc5-4f62-b879-52e5f65bbaa9) | 
+- Do not Cover the Refrigerator with any external cover. The heat dissipation is interrupted, which may cause weak cooling. Do no use plastic mats over the refrigerator shelf. It may cause weak cooling
+
+
 
 
