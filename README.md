@@ -168,5 +168,5 @@ INSTALLATION AND USER MANUAL
 |           | Control Panel and Display | LED Touch Screen ( All function control ) |
 |           | Display Bottom Deco | No |
 |           | 7 Seg LED Colour | Dark Blue |
-| Other | Shelves | Design | AI Trim (Front} +  Side Silver Resin |
-|       |         | Cantilver Color | Silver |
+| Other | Shelves | Design-AI Trim (Front} +  Side Silver Resin |
+|       |         | Cantilver Color -Silver |
