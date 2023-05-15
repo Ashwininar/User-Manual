@@ -170,3 +170,16 @@ INSTALLATION AND USER MANUAL
 |           | 7 Seg LED Colour | Dark Blue |
 | Other | Shelves | Design-AI Trim (Front} +  Side Silver Resin |
 |       |         | Cantilver Color -Silver |
+|       | Door Design | Steel Cladding (No trim kit) | 
+|       | Door Pocket Design | 1 Piece Clear View + Front Silver Spray |
+|       | Drawer Design | Clear View + Front Silver Spray |
+|       | LED | Surface Lighting Side + Top |
+|       | Initial Defrost | 6 to 12 hrs. (depends on condition) |
+|       | Defrost Cycle | 12 to 44 hrs. (depends on condition) |
+|       | Rest Time | 10 min |
+|       | Duct Multi-Flow | Flat Metal Duct (Printing x) |
+|       | Handle Design |	bLUEWAVE COOLER Pro Handle |
+|       | Door Alarm | Yes |
+|       | Refrigerant | R-134a0 |
+|       | Wifi | Yes(RM) |
+          
