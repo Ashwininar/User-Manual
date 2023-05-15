@@ -229,5 +229,7 @@ In case of malfunction review the following list to find out if it is possible t
 
 | Problem | Possible Cause | Action |
 | ------- | -------------- | ------ |
-| The appliance does not start | - Electrical cable is not properly plugged into the socket. - The mains switch is in OFF position. | -Set the cable properly. - Turn on the switch to ON | 
+| The appliance does not start | Electrical cable is not properly plugged into the socket , The mains switch is in OFF position. | -Set the cable properly ,  Turn on the switch to ON |
+                                                                                         
+                                   
 
