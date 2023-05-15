@@ -203,7 +203,8 @@ INSTALLATION AND USER MANUAL
  - Do not Cover the Refrigerator with any external cover. The heat dissipation is interrupted, which may cause weak cooling. Do no use plastic mats over the refrigerator shelf. It may cause weak cooling
 
 ![image](https://github.com/Ashwininar/User-Manual/assets/130229745/176056e8-10d2-4129-b081-31356d883abe)
-- Do not overload the Refrigerator. It may hinder air circulation which may cause uneven cooling (70% below food loading is recommended)
+- Do not overload the Refrigerator. It 
+may hinder air circulation which may cause uneven cooling (70% below food loading is recommended)
 
 ![image](https://github.com/Ashwininar/User-Manual/assets/130229745/025f5127-27b2-4ac4-a599-b284d729c9c5)
 - Do not open the door frequently for the long time. It can lead to weak cooling. 
@@ -211,4 +212,11 @@ INSTALLATION AND USER MANUAL
 ![image](https://github.com/Ashwininar/User-Manual/assets/130229745/20dfcf03-1ce9-43d4-a767-0e7f7725568d)
 - Do not keep hot food/cooked food directly in to the refrigerator. It may cause weak cooling and moisture formation inside the refrigerator.
 
+# Refrigerator Cleaning Instruction
+
+![image](https://github.com/Ashwininar/User-Manual/assets/130229745/4c96e8bc-d95b-4a7a-950b-2fe19128a05a) Please clean the tray regularly to avoid leakage on the floor.
+
+![image](https://github.com/Ashwininar/User-Manual/assets/130229745/e557c882-06b2-4da9-9f5c-c92b58a77431) Please clean and Drain Connector and Chiller Tray when it is blocked with foreign particle. To avoid any damage to the Drain Connector, do not use sharp objects to clean
+
+![image](https://github.com/Ashwininar/User-Manual/assets/130229745/89fe3be7-7c2b-46f9-ac7c-92d73f1f01f6) Please do not clean the Refrigerator with chemicals. Use only wet cloth for cleaning
 
