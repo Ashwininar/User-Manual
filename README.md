@@ -191,6 +191,10 @@ INSTALLATION AND USER MANUAL
 ![image](https://github.com/Ashwininar/User-Manual/assets/130229745/c685cbc5-864d-4811-8430-8d3c7ab603ce)
 #### - Do not remove the ice from the freezer with sharp objects as it can damage the freezer.
 
+
 | In Summer | ![image](https://github.com/Ashwininar/User-Manual/assets/130229745/daf70e6e-74c1-4eeb-977d-0ac637c493f0) | ![image](https://github.com/Ashwininar/User-Manual/assets/130229745/2d372e4b-bdc4-4f7f-b1ea-21063caca953) | Set on 5-6 |
 | ------------------------- | ------------------------ | ---------------------------------- | --------------------------------------- |
+| In Monsoon | ![image](https://github.com/Ashwininar/User-Manual/assets/130229745/fedbc0e2-4437-42f9-bcb4-7b37b8e26651) | ![image](https://github.com/Ashwininar/User-Manual/assets/130229745/1fac2ecd-1bef-4530-b78c-3b25099a8ae7) | Set on 3-4 |
+
+
 
