@@ -214,9 +214,12 @@ may hinder air circulation which may cause uneven cooling (70% below food loadin
 
 # Refrigerator Cleaning Instruction
 
-![image](https://github.com/Ashwininar/User-Manual/assets/130229745/4c96e8bc-d95b-4a7a-950b-2fe19128a05a) Please clean the tray regularly to avoid leakage on the floor.
+![image](https://github.com/Ashwininar/User-Manual/assets/130229745/4c96e8bc-d95b-4a7a-950b-2fe19128a05a) 
+- Please clean the tray regularly to avoid leakage on the floor.
 
-![image](https://github.com/Ashwininar/User-Manual/assets/130229745/e557c882-06b2-4da9-9f5c-c92b58a77431) Please clean and Drain Connector and Chiller Tray when it is blocked with foreign particle. To avoid any damage to the Drain Connector, do not use sharp objects to clean
+![image](https://github.com/Ashwininar/User-Manual/assets/130229745/e557c882-06b2-4da9-9f5c-c92b58a77431) 
+- Please clean and Drain Connector and Chiller Tray when it is blocked with foreign particle. To avoid any damage to the Drain Connector, do not use sharp objects to clean
 
-![image](https://github.com/Ashwininar/User-Manual/assets/130229745/89fe3be7-7c2b-46f9-ac7c-92d73f1f01f6) Please do not clean the Refrigerator with chemicals. Use only wet cloth for cleaning
+![image](https://github.com/Ashwininar/User-Manual/assets/130229745/89fe3be7-7c2b-46f9-ac7c-92d73f1f01f6) 
+- Please do not clean the Refrigerator with chemicals. Use only wet cloth for cleaning
 
