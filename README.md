@@ -200,12 +200,15 @@ INSTALLATION AND USER MANUAL
 # Maintenance of Refrigerator
 
 ![image](https://github.com/Ashwininar/User-Manual/assets/130229745/f6163e20-bdc5-4f62-b879-52e5f65bbaa9)
-![image](https://github.com/Ashwininar/User-Manual/assets/130229745/f3f49717-7635-4181-aecf-860b0c824e1f)
  - Do not Cover the Refrigerator with any external cover. The heat dissipation is interrupted, which may cause weak cooling. Do no use plastic mats over the refrigerator shelf. It may cause weak cooling
 
 ![image](https://github.com/Ashwininar/User-Manual/assets/130229745/176056e8-10d2-4129-b081-31356d883abe)
 - Do not overload the Refrigerator. It may hinder air circulation which may cause uneven cooling (70% below food loading is recommended)
 
-![Uploading image.png…]()
- 
+![image](https://github.com/Ashwininar/User-Manual/assets/130229745/025f5127-27b2-4ac4-a599-b284d729c9c5)
+- Do not open the door frequently for the long time. It can lead to weak cooling. 
+
+![image](https://github.com/Ashwininar/User-Manual/assets/130229745/20dfcf03-1ce9-43d4-a767-0e7f7725568d)
+- Do not keep hot food/cooked food directly in to the refrigerator. It may cause weak cooling and moisture formation inside the refrigerator.
+
 
