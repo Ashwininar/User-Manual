@@ -183,3 +183,16 @@ INSTALLATION AND USER MANUAL
 |       | Refrigerant | R-134a0 |
 |       | Wifi | Yes(RM) |
           
+# Temperature Settings
+
+![image](https://github.com/Ashwininar/User-Manual/assets/130229745/2f99151a-f14c-4e8b-bd89-cadaf255a03f)
+
+- It is recommended to press the defrost button 2 times a Week or in case you see excess ice inside the freezer zone.
+
+![image](https://github.com/Ashwininar/User-Manual/assets/130229745/c685cbc5-864d-4811-8430-8d3c7ab603ce)
+
+- Do not remove the ice from the freezer with sharp objects as it can damage the freezer.
+
+| In Summer | ![image](https://github.com/Ashwininar/User-Manual/assets/130229745/daf70e6e-74c1-4eeb-977d-0ac637c493f0) | ![image](https://github.com/Ashwininar/User-Manual/assets/130229745/2d372e4b-bdc4-4f7f-b1ea-21063caca953) | Set on 5-6 |
+
+
