@@ -263,11 +263,11 @@ The bLUEWAVE COOLER Refrigerator comes with a Five year warranty on compressor a
 
 # CUSTOMER COPY
 
-| CUSTOMER NAME AND ADDRESS |          | DEALERS NAME AND ADDRESS |
-| ------------------------- |          | ------------------------ |
-| ------------------------- |          | ------------------------ |
-| --------------------------|          | ------------------------ |
-| Telephone Number          |          | Telephone Number         | 
+| CUSTOMER NAME AND ADDRESS | DEALERS NAME AND ADDRESS |
+| ------------------------- | ------------------------ |
+| ------------------------- | ------------------------ |
+| --------------------------| ------------------------ |
+| Telephone Number | Telephone Number | 
 
 Customer Signature
 
