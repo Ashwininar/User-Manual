@@ -194,5 +194,5 @@ INSTALLATION AND USER MANUAL
 - Do not remove the ice from the freezer with sharp objects as it can damage the freezer.
 
 | In Summer | ![image](https://github.com/Ashwininar/User-Manual/assets/130229745/daf70e6e-74c1-4eeb-977d-0ac637c493f0) | ![image](https://github.com/Ashwininar/User-Manual/assets/130229745/2d372e4b-bdc4-4f7f-b1ea-21063caca953) | Set on 5-6 |
-
+| -------------------------------------------------------------------------------------------------------------------------------- |
 
